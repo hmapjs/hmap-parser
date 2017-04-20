@@ -1,0 +1,26 @@
+{
+  "name": "hmap-parser",
+  "version": "0.0.1",
+  "description": "A hmap parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmapjs/hmap-parser.git"
+  },
+  "author": "moonrailgun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hmapjs/hmap-parser/issues"
+  },
+  "homepage": "https://github.com/hmapjs/hmap-parser#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "token-stream": "^1.0.0"
+  },
+  "devDependencies": {
+    "hmap-lexer": "0.0.1"
+  }
+}
